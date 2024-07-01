@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-👩‍💻 I’m currently studying computer engineering in the third year of Çukurova university.
+👩‍💻 I’m a recent graduate of computer engineering from Cukurova University.
 
 🧠 I’m currently developing myself on Data Science.
 
@@ -19,6 +19,6 @@
 * Data Visualisation(with Matplotlib and Seaborn libraries)
 * Statistics(I am confident in using only statistical concepts which a Data Scientist should know,not like a Statistician or a Mathematician)
 * Machine Learning(with Scikit-Learn library)
-* Web Scraping(with Requests and BeautifulSoup4 libraries)
-* Deep Learning(I am working on it)
+* Web Scraping(with Requests, Selenium and BeautifulSoup4 libraries)
+* Deep Learning(with PyTorch)
 
