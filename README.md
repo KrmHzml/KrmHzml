@@ -9,7 +9,7 @@
 
 🧠 I’m currently developing myself on Data Science.
 
-📫 How to reach me keremhuzmli@gmail.com.
+📫 How to reach me keremhuzmli@gmail.com
 
 ## 🛠 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,mysql)](https://skillicons.dev)
